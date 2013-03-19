@@ -1,0 +1,6 @@
+
+$ git config --global user.name "venkatasubbaiah"
+
+$ git config --global user.email venky.kandagaddala@gmail.com
+
+git config --global color.ui true
